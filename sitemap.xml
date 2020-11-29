@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/11/19/hello-world%20copy%202/</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/music/index.html</loc>
     
     <lastmod>2020-11-23</lastmod>
@@ -23,13 +37,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2020-11-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2020/11/19/hello-world%20copy%204/</loc>
     
     <lastmod>2020-11-19</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>http://example.com/2020/11/19/hello-world%20copy%203/</loc>
-    
-    <lastmod>2020-11-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/11/19/hello-world%20copy%202/</loc>
     
     <lastmod>2020-11-19</lastmod>
     
@@ -67,12 +67,26 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-11-23</lastmod>
+    <lastmod>2020-11-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/hero/</loc>
+    <lastmod>2020-11-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://example.com/categories/hero/</loc>
+    <lastmod>2020-11-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
